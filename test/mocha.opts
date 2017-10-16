@@ -1,0 +1,9 @@
+
+-r babel-core/register
+-r jsdom-global/register
+-r ./test/domMock.js
+-s 75
+-t 2000
+-c
+--full-trace
+./test/**/*.test.js

@@ -1,0 +1,21 @@
+{  
+   "check-coverage":true,
+   "instrument":false,
+   "sourceMap":false,
+   "reporter":[  
+      "lcov",
+      "text",
+      "text-summary"
+   ],
+   "require":[  
+      "babel-register"
+   ],
+   "include":[  
+      "src/**/*.js"
+   ],
+   "all":true,
+   "lines": 48,
+    "statements": 47,
+    "functions": 42,
+    "branches": 44
+}
