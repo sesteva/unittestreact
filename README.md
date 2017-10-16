@@ -1,4 +1,4 @@
-# Unit Testing Examples
+# Unit Testing React App Examples
 
 ## Use Cases
 - logic
@@ -14,6 +14,15 @@
 - component where we need to replace the dependency of a dependency
 - component with i18n
 - high order component (edited)
+
+## Setup
+
+Requirements:
+- NodeJS
+- NPM
+
+
+        npm install
 
 ## Commands
 
