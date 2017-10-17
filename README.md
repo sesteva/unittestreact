@@ -21,7 +21,8 @@
 - Mocha
 - Chai
 - Enzyme
-- Rewire
+- Rewire/Proxyquire
+
 ### Option 2
 - Jest
 - Jestshots
