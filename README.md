@@ -2,7 +2,7 @@
 
 ## Use Cases
 - logic
-- react class
+- react class //lifecycle as well
 - react stateless component
 - redux container connected
 - redux container disconnected
@@ -13,7 +13,20 @@
 - component with react-bootstrap
 - component where we need to replace the dependency of a dependency
 - component with i18n
-- high order component (edited)
+- high order component
+- form
+
+## Tools
+### Option 1
+- Mocha
+- Chai
+- Enzyme
+- Rewire
+### Option 2
+- Jest
+- Jestshots
+### Option 3
+- Combining Option 1 or 2 with StoryBook -> https://github.com/mthuret/storybook-addon-specifications
 
 ## Setup
 
@@ -21,8 +34,9 @@ Requirements:
 - NodeJS
 - NPM
 
+Clone this repo locally and simply execute:
 
-        npm install
+      npm install 
 
 ## Commands
 
